@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="StudentInformation" language="en" table="x_594704_sru_studentinformation">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>StudentInformation</label>
+            <language>en</language>
+            <name>x_594704_sru_studentinformation</name>
+            <plural>StudentInformations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-11 11:05:27</sys_created_on>
+            <sys_id>d9b5c60adb362010e6c05385ca96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>StudentInformation</sys_name>
+            <sys_package display_value="SRU" source="x_594704_sru">90038282db362010e6c05385ca961931</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SRU">90038282db362010e6c05385ca961931</sys_scope>
+            <sys_update_name>sys_documentation_x_594704_sru_studentinformation__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-11 11:05:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
