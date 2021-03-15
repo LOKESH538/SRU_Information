@@ -3,18 +3,18 @@
         <category display_value="" name="x_594704_sru_studentinformation">x_594704_sru_studentinformation</category>
         <maximum_digits>7</maximum_digits>
         <number>1000</number>
-        <prefix>STU</prefix>
+        <prefix>STUINF</prefix>
         <sys_class_name>sys_number</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-03-11 11:05:28</sys_created_on>
         <sys_id>15b5c60adb362010e6c05385ca9619af</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>STU</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>STUINF</sys_name>
         <sys_package display_value="SRU" source="x_594704_sru">90038282db362010e6c05385ca961931</sys_package>
         <sys_policy/>
         <sys_scope display_value="SRU">90038282db362010e6c05385ca961931</sys_scope>
         <sys_update_name>sys_number_15b5c60adb362010e6c05385ca9619af</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-03-11 11:05:28</sys_updated_on>
+        <sys_updated_on>2021-03-15 05:47:28</sys_updated_on>
     </sys_number>
 </record_update>
